@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  siteliang:
+    restart: unless-stopped
+    image: siteliang
+    container_name: siteliang
+    environment:
+      TZ: "Asia/Shanghai"
+    ports:
+      - 3000:3000
+    volumes:
+      - "./docs:/docs"
