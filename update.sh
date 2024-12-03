@@ -4,4 +4,4 @@ scp docker-compose.yml 2c2g:~/app/docsify/
 scp ./update_server.sh 2c2g:~/app/docsify/
 
 # run on server
-ssh 2c2g "cd ~/app/docsify/ && ./update_server.sh"
+ssh 2c2g "cd ~/app/docsify/ && sudo ./update_server.sh"
