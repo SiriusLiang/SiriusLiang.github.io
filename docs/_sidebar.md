@@ -4,6 +4,10 @@
 * 中间件
   * [对象存储MinIO](/middleware/minio.md)
   * [日志系统Grafana](/middleware/grafana.md)
+* Linux
+  * [文件权限和chmod](/linux/chmod.md)
+  * [安全编辑sudoers文件](/linux/visudo.md)
+
 * 其他
   * [谷歌面试自评](/other/google_self_evaluation.md)
   * [win10小鹤双拼](/other/xiaohe_win10.md)
