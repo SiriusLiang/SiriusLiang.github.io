@@ -8,6 +8,7 @@
 * Linux
   * [文件权限和chmod](/linux/chmod.md)
   * [安全编辑sudoers文件](/linux/visudo.md)
+  * [python要求虚拟环境](/linux/python_env.md)
 
 * 其他
   * [谷歌面试自评](/other/google_self_evaluation.md)
